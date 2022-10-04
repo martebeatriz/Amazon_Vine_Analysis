@@ -11,14 +11,19 @@ Using our knowledge of PySpark, Pandas, or SQL, we determined if there is any bi
 * How many Vine reviews and non-Vine reviews were there?
     * Vine Reviews: 1,203
     * Non-Vine reviews: 58,018
+    ![Review_Counts](https://user-images.githubusercontent.com/107375554/193724728-ce102f0e-1a1d-4721-99dd-3ae5fc05660e.png)
 
 * How many Vine reviews versus non-Vine reviews were 5 stars? 410
     * 5-Star Vine Reviews: 410
     * 5-Star Non-Vine reviews: 28,043
+    ![5_Star_Reviews](https://user-images.githubusercontent.com/107375554/193724763-778180ef-eca1-4211-9205-67a65bbba545.png)
+
 
 * What percentage of Vine reviews versus non-Vine reviews were 5 stars?
     * 5-Star Vine Reviews: 1.44%
     * 5-Star Non-Vine reviews: 98.56%
+    ![percent_paid_unpaid_reviews](https://user-images.githubusercontent.com/107375554/193724806-9bfbfed4-bb1b-41f5-898d-9e9e3e81b738.png)
+
 
 
 ## Summary: 
