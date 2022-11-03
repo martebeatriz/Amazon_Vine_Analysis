@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Overview of the analysis:
-Using our knowledge of the cloud ETL process, we created an AWS RDS database with tables in pgAdmin, pick a dataset on toy reviews from the Amazon Review datasets
+Using our knowledge of the cloud ETL process, we created an AWS RDS database with tables in pgAdmin. Used a dataset on toy reviews from the Amazon Review datasets
 
 Using our knowledge of PySpark, Pandas, or SQL, we determined if there is any bias towards reviews that were written as part of the Vine paid review program.
 
